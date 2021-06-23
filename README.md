@@ -16,7 +16,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hayes-chris/)
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/christopher-hayes">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=christopher-hayes&show_icons=true&count_private=true&theme=gruvbox" alt="Braydon's GitHub Stats" />
 </a>
 
