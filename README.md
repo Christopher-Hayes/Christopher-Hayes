@@ -10,7 +10,7 @@
 
 😄 **Tech I'm most excited to work with** (2021)
 
-- StackBlitz Web Containers - StackBlitz is still ironing out some things, but Web Containers have the potential to totally change the face of development.
+- StackBlitz Web Containers - StackBlitz is still ironing out some things, but Web Containers have the potential to totally change the face of development. I've tested out StackBlitz Web Containers rebuilding my personal site in Next.JS, but StackBlitz's git system is too buggy currently; however, they are in the process of completely refactoring it last time I checked.
 - Flutter - Flutter has quickly become a huge player in the web + mobile app industry. As a web developer, I'd like to see how Flutter brings web apps to native mobile.
 - WebFlow - Non-code solutions should still be in a web developer's toolkit, I'd like to get the chance to see how WebFlow compares.
 
