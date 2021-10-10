@@ -1,18 +1,32 @@
-## 👋 I am Chris Hayes
+## 🧋 Chris Hayes
 
-### I'm a software engineer who has a passion for design
+### I'm a full-stack engineer, with a passion for frontend design
 
-⚡ I mostly work with Vue, React, Electron, and WebGL to build websites and desktop applications.
+⚡ I work most with Vue, Nuxt, Tailwind, and WebGL to build websites and desktop apps
 
-🔭 I’m currently working on setting up my home IoT with the OSS, home-assistant.io.
+🔭 Lastest hobby project: Use Google AppScript to run automations on Google Sheet data
 
-🌱 I’m currently learning Next.JS as part of a project to redesign and rebuild my personal website at chris.hayes.software.
+🌱 Learning Flutter right now for a special project
 
-😄 **Tech I'm most excited to work with** (2021)
+## DEV | 2021
 
-- StackBlitz Web Containers - StackBlitz is still ironing out some things, but Web Containers have the potential to totally change the face of development. I've tested out StackBlitz Web Containers rebuilding my personal site in Next.JS, but StackBlitz's git system is too buggy currently; however, they are in the process of completely refactoring it last time I checked.
-- Flutter - Flutter has quickly become a huge player in the web + mobile app industry. As a web developer, I'd like to see how Flutter brings web apps to native mobile.
-- WebFlow - Non-code solutions should still be in a web developer's toolkit, I'd like to get the chance to see how WebFlow compares.
+### 🎨 Tailwind
+
+Tailwind is the 2020s equivalent of the 2010s Bootstrap. It feels more flexible, more modern, more efficent. Giving an HTML element a dozen classes still doesn't feel right, and I still right CSS from time to time. But, the quicker frontend development time is indisputable.
+
+### ⚡ StackBlitz Web Containers
+
+Released in 2021. StackBlitz Web containers look like the future of instant web development. But, StackBlitz's git system still needs work and attempting to connect projects to GitHub is often completely broken. It probably won't be till 2022-2023 StackBlitz Web Containers can be anything but experimental.
+
+### 📱 Flutter
+
+Quickly overtaking React Native as the cross-platform mobile frontend of choice, Flutter brings speed to the development process. Currently, working with Flutter on a not-yet-announced project.
+
+### 👨‍💻 WebFlow
+
+WebFlow has separated itself as _the_ no-code platform that is more than drag-and-drop. Non-code solutions should still be in a web developer's toolkit, I'd like to get the chance to see how WebFlow compares.
+
+## 🤵 A little more about me..
 
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/hayes-chris/)
 [![Polywork](https://img.shields.io/static/v1?style=for-the-badge&message=Polywork&color=543DE0&logo=Polywork&logoColor=FFFFFF&label=)](https://polywork.com/web_dev)
