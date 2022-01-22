@@ -2,29 +2,11 @@
 
 ### I'm a full-stack engineer, with a passion for frontend design
 
-⚡ I work most with Vue, Nuxt, Tailwind, and WebGL to build websites and desktop apps
+⚡ I work most with Vue, Nuxt, Tailwind, and WebGL to build websites
 
-🔭 Lastest hobby project: Use Google AppScript to run automations on Google Sheet data
+🔭 Lastest hobby project: Reverse-engineer Wordle's Webpack bundle to create a modded version
 
-🌱 Learning Flutter right now for a special project
-
-## DEV | 2021
-
-### 🎨 Tailwind
-
-Tailwind is the 2020s equivalent of the 2010s Bootstrap. It feels more flexible, more modern, more efficent. Giving an HTML element a dozen classes still doesn't feel right, and I still right CSS from time to time. But, the quicker frontend development time is indisputable.
-
-### ⚡ StackBlitz Web Containers
-
-Released in 2021. StackBlitz Web containers look like the future of instant web development. But, StackBlitz's git system still needs work and attempting to connect projects to GitHub is often completely broken. It probably won't be till 2022-2023 StackBlitz Web Containers can be anything but experimental.
-
-### 📱 Flutter
-
-Quickly overtaking React Native as the cross-platform mobile frontend of choice, Flutter brings speed to the development process. Currently, working with Flutter on a not-yet-announced project.
-
-### 👨‍💻 WebFlow
-
-WebFlow has separated itself as _the_ no-code platform that is more than drag-and-drop. Non-code solutions should still be in a web developer's toolkit, I'd like to get the chance to see how WebFlow compares.
+🌱 Learning to work with NFT + Web3 APIs right now
 
 ## 🤵 A little more about me..
 
