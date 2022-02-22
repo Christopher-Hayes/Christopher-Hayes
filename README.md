@@ -6,7 +6,7 @@
 
 🔭 Lastest hobby project: Reverse-engineer Wordle's Webpack bundle to create a modded version
 
-🌱 Learning how to better leverage Docker containers in my workflow
+🌱 Learning to work with React + React-Spring
 
 ## 🤵 A little more about me..
 
