@@ -6,7 +6,7 @@
 
 🔭 Lastest hobby project: Reverse-engineer Wordle's Webpack bundle to create a modded version
 
-🌱 Learning to work how to build frontends with MUI
+🌱 Learning how to build frontends with MUI
 
 ## 🤵 A little more about me..
 
