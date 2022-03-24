@@ -18,3 +18,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=christopher-hayes&show_icons=true&count_private=true&theme=gruvbox" alt="Braydon's GitHub Stats" />
 </a>
 
+----
+
+Profile art credit to [instagram.com/janepicaart](https://instagram.com/janepicaart)
