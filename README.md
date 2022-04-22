@@ -1,4 +1,4 @@
-# Stand with Ukraine
+# 🇺🇦 Stand with Ukraine 🇺🇦
 
 https://stand-with-ukraine.pp.ua/
 
