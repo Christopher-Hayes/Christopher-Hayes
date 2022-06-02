@@ -8,11 +8,11 @@ https://stand-with-ukraine.pp.ua/
 
 ### I'm a full-stack engineer, with a passion for frontend design
 
-⚡ I work most with Vue, Nuxt, Tailwind, and WebGL to build websites
+⚡ I mainly build websites with Vue, React, Tailwind, and WebGL
 
-🔭 Lastest hobby project: Reverse-engineer Wordle's Webpack bundle to create a modded version
+🔭 Lastest hobby project: [Created a VSCode extension](https://github.com/Christopher-Hayes/liquid-comments) to get the "Insert comment" shortcut to use Liquid comments
 
-🌱 Learning how to build frontends with MUI
+🌱 Right now trying [Alpine.JS](https://alpinejs.dev/) out on a project (with Alpine UI)
 
 ## 🤵 A little more about me..
 
