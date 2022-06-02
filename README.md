@@ -10,7 +10,7 @@ https://stand-with-ukraine.pp.ua/
 
 ⚡ I mainly build websites with Vue, React, Tailwind, and WebGL
 
-🔭 Lastest hobby project: [Created a VSCode extension](https://github.com/Christopher-Hayes/liquid-comments) to get the "Insert comment" shortcut to use Liquid comments
+🔭 Lastest hobby project: [Built a VSCode extension](https://github.com/Christopher-Hayes/liquid-comments) to get the "Insert comment" shortcut to use Liquid comments
 
 🌱 Right now trying [Alpine.JS](https://alpinejs.dev/) out on a project (with Alpine UI)
 
