@@ -27,3 +27,5 @@ https://stand-with-ukraine.pp.ua/
 ----
 
 Profile art credit to [instagram.com/janepicaart](https://instagram.com/janepicaart)
+July 15, 2022 Temporary PFP - A Dall-e 2 variation of the my original PFP.
+
