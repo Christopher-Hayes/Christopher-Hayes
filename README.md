@@ -10,7 +10,7 @@ https://stand-with-ukraine.pp.ua/
 
 ⚡ I mainly build websites with Vue, React, Tailwind, and WebGL
 
-🔭 Lastest hobby project: [Built a VSCode extension](https://github.com/Christopher-Hayes/liquid-comments) to get the "Insert comment" shortcut to use Liquid comments
+🔭 Lastest hobby project: Built a Slack app to generate Dall-e images from Slack (Bolt, Next.JS, Vercel, Upstash)
 
 🌱 Right now trying [Alpine.JS](https://alpinejs.dev/) out on a project (with Alpine UI)
 
@@ -26,7 +26,9 @@ https://stand-with-ukraine.pp.ua/
 
 ----
 
-Profile art credit to [instagram.com/janepicaart](https://instagram.com/janepicaart)
+PFP as of July 24, 2022 - An image created by Dall-e 2 AI
 
-July 15, 2022 Temporary PFP - A Dall-e 2 variation of the my original PFP.
+> The great wave off Kanagawa japanese painting rendered in 3D blender octane realistic, water refraction caustics
+
+[View it on labs.openai.com](https://labs.openai.com/s/xLvlOGDNLtGfCLFkpechnMA8)
 
