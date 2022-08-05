@@ -8,11 +8,11 @@ https://stand-with-ukraine.pp.ua/
 
 ### I'm a full-stack engineer, with a passion for frontend design
 
-⚡ I mainly build websites with Vue, React, Tailwind, and WebGL
+⚡ I mainly build websites with Vue, React, Tailwind, and WebGL.
 
-🔭 Lastest hobby project: Built a Slack app to generate Dall-e images from Slack (Bolt, Next.JS, Vercel, Upstash)
+🔭 Lastest hobby project: [Built a Slack bot](https://dollybot.digitalsurgeons.com) to generate Dall-e images from Slack (Bolt.JS, Next.JS, Vercel, Upstash).
 
-🌱 Right now trying [Alpine.JS](https://alpinejs.dev/) out on a project (with Alpine UI)
+🌱 Right now learning to use Colab to run ML. Looking to contribute to [LAION AI](https://github.com/LAION-AI/).
 
 ## 🤵 A little more about me..
 
