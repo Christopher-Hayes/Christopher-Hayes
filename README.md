@@ -26,9 +26,9 @@ https://stand-with-ukraine.pp.ua/
 
 ----
 
-PFP as of July 24, 2022 - An image created by Dall-e 2 AI
+PFP as of Sep 4, 2022 - An image generated with Stable Diffusion AI.
 
-> The great wave off Kanagawa japanese painting rendered in 3D blender octane realistic, water refraction caustics
+> mid body portrait painting of a bearded software developer with a laptop, back and rim lighting, cyber, tech, ultra realistic, concept art, intricate
 
-[View it on labs.openai.com](https://labs.openai.com/s/xLvlOGDNLtGfCLFkpechnMA8)
+[Create your own AI artwork with the official Stable Diffusion web UI](https://beta.dreamstudio.ai/dream)
 
