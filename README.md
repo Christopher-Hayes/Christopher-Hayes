@@ -26,9 +26,7 @@ https://stand-with-ukraine.pp.ua/
 
 ----
 
-PFP as of Sep 4, 2022 - An image generated with Stable Diffusion AI.
-
-> mid body portrait painting of a bearded software developer with a laptop, back and rim lighting, cyber, tech, ultra realistic, concept art, intricate
+PFP as of Sep 23, 2022 - An image generated with Stable Diffusion AI.
 
 [Create your own AI artwork with the official Stable Diffusion web UI](https://beta.dreamstudio.ai/dream)
 
