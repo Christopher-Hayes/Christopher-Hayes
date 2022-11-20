@@ -16,7 +16,7 @@ https://stand-with-ukraine.pp.ua/
 
 ## 🤵 A little more about me..
 
-[![Fosstodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat)](https://fosstodon.org/@chris_hayes)
+[![Fosstodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Fosstodon&color=6364FF&logo=Mastodon&logoColor=white)](https://fosstodon.org/@chris_hayes)
 [![Flickr](https://img.shields.io/badge/Flickr-E6007A?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/people/chris-hayes)
 [![Polywork](https://img.shields.io/static/v1?style=for-the-badge&message=Polywork&color=543DE0&logo=Polywork&logoColor=FFFFFF&label=)](https://polywork.com/web_dev)
 [![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/2096769/chris-hayes)
