@@ -26,9 +26,6 @@ https://stand-with-ukraine.pp.ua/
 
 ----
 
-PFP as of Oct 31, 2022 - An image generated with Stable Diffusion AI, effects added with Photomosh
+PFP as of Nov 19, 2022 - An image generated with Stable Diffusion AI
 
 Stable Diffusion Web UI: https://beta.dreamstudio.ai/dream
-
-Photomosh: https://photomosh.com
-
