@@ -4,17 +4,15 @@ https://stand-with-ukraine.pp.ua/
 
 ----
 
-## 🧋 Chris Hayes
+## 🧋 I'm Chris, a web dev with a love for design, open-source, and ai.
 
-### I'm a full-stack engineer, with a passion for frontend design
+⚡ I build websites with React/Next, Tailwind, Shopify, and WebGL.
 
-⚡ I mainly build websites with React/Next, Tailwind, Shopify, and WebGL.
+🔭 I'm working on a [GNOME Shell Extension](https://github.com/christopher-hayes/ask-ai) to interact with GPT-3 AI.
 
-🔭 Lastest hobby project: [Built a Slack bot](https://dollybot.digitalsurgeons.com) to generate Dall-e images from Slack (Bolt.JS, Next.JS, Vercel, Upstash).
+🌱 Currently learning how to live in the Fediverse. (Mastodon, NewPipe, NextCloud)
 
-🌱 Right now learning how to live in the Fediverse. (Mastodon, NewPipe, NextCloud)
-
-## 🤵 A little more about me..
+### 🤵 You'll find me on
 
 [![Fosstodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Fosstodon&color=6364FF&logo=Mastodon&logoColor=white)](https://fosstodon.org/@chris_hayes)
 [![Flickr](https://img.shields.io/badge/Flickr-E6007A?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/people/chris-hayes)
@@ -25,8 +23,6 @@ https://stand-with-ukraine.pp.ua/
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=christopher-hayes&show_icons=true&count_private=true&theme=gruvbox" alt="Braydon's GitHub Stats" />
 </a>
 
-----
+<span style="display:block;height:1em"></span>
 
-PFP as of Nov 19, 2022 - An image generated with Stable Diffusion AI
-
-Stable Diffusion Web UI: https://beta.dreamstudio.ai/dream
+PFP - A portrait generated with StableDiffusion AI. Try StableDiffusion out here: https://dreamstudio.ai
