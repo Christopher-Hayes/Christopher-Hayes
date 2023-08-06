@@ -8,7 +8,7 @@ https://stand-with-ukraine.pp.ua/
 
 ⚡ I build websites with React/Next, Tailwind, Shopify, and WebGL.
 
-🔭 I'm working on a [GNOME Shell Extension](https://github.com/christopher-hayes/ask-ai) to interact with GPT-3 AI.
+🔭 Maintaining [VSCode ChatGPT "Reborn" Extension](https://github.com/christopher-hayes/ask-ai) as a FOSS alternative to Copilot, Cody, and similar.
 
 🌱 Currently learning how to live in the Fediverse. (Mastodon, NewPipe, NextCloud)
 
