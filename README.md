@@ -8,9 +8,9 @@ https://stand-with-ukraine.pp.ua/
 
 ⚡ I build websites with React/Next, Tailwind, Shopify, and WebGL.
 
-🔭 Maintaining [VSCode ChatGPT "Reborn" Extension](https://github.com/christopher-hayes/ask-ai) as a FOSS alternative to Copilot, Cody, and similar.
+🤖 I maintain [the VSCode Extension, "ChatGPT Reborn"](https://github.com/christopher-hayes/ask-ai), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
 
-🌱 Currently learning how to live in the Fediverse. (Mastodon, NewPipe, NextCloud)
+🌱 Right now I'm learning how to use [🔹Obsidian.md](https://obsidian.md).
 
 ### 🤵 You'll find me on
 
