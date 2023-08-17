@@ -1,6 +1,8 @@
-# 🇺🇦 Stand with Ukraine 🇺🇦
+[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-https://stand-with-ukraine.pp.ua/
+**Other than the obvious humanitarian issues, why am I putting this on my GitHub profile?**
+
+A significant portion of the developer community (and by extension, the FOSS community) are residents of Ukraine. Many of us have benefited from the open-source community of Ukraine, they deserve our support.
 
 ----
 
@@ -8,9 +10,11 @@ https://stand-with-ukraine.pp.ua/
 
 ⚡ I build websites with React/Next, Tailwind, Shopify, and WebGL.
 
-🤖 I maintain [the VSCode Extension, "ChatGPT Reborn"](https://github.com/christopher-hayes/ask-ai), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
+💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/christopher-hayes/ask-ai), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
 
 🌱 Right now I'm learning how to use [🔹Obsidian.md](https://obsidian.md).
+
+💬 95% of my posts online are either [Fosstodon](https://fosstodon.org) (FOSS Mastodon server) or the [newhaven.io](https://newhaven.io) dev community on Discord.
 
 ### 🤵 You'll find me on
 
@@ -25,4 +29,4 @@ https://stand-with-ukraine.pp.ua/
 
 <span style="display:block;height:1em"></span>
 
-PFP - A portrait generated with StableDiffusion AI. Try StableDiffusion out here: https://dreamstudio.ai
+PFP - A portrait generated with MidJourney AI. It's a /blend of a real photo of myself and a MJ creation I liked.
