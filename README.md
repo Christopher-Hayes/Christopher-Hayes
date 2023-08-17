@@ -14,7 +14,7 @@ A significant portion of the developer community (and by extension, the FOSS com
 
 🌱 Right now I'm learning how to use [🔹Obsidian.md](https://obsidian.md).
 
-💬 95% of my posts online are either [Fosstodon](https://fosstodon.org) (FOSS Mastodon server) or the [newhaven.io](https://newhaven.io) dev community on Discord.
+💬 95% of my posts online are on either [Fosstodon](https://fosstodon.org) (FOSS Mastodon server) or the [newhaven.io](https://newhaven.io) dev community on Discord.
 
 ### 🤵 You'll find me on
 
