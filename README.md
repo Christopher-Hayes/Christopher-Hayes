@@ -1,16 +1,12 @@
 [![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-Ukraine is a significant member of the open-source community. Many of us benefit from Ukrainian built and maintained FOSS.
-
-They deserve our support.
-
 ----
 
 ## 🧋 I'm Chris, a web dev with a love for design, open-source, and ai.
 
 ⚡ I build websites with React/Next, Tailwind, Shopify, and WebGL.
 
-💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/christopher-hayes/ask-ai), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
+💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
 
 🌱 Right now I'm learning how to self-host with [😎 Coolify](https://coolify.io/).
 
