@@ -4,13 +4,13 @@
 
 ## 🧋 I'm Chris, a web dev with a love for design, open-source, and ai.
 
-⚡ I build websites with React/Next, Tailwind, Shopify, and WebGL.
+⚡ I build fun websites with React/Next, Tailwind, Shopify, and WebGL.
 
 💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
 
-🌱 Right now I'm learning how to self-host with [😎 Coolify](https://coolify.io/).
+🌱 I'm learning to build with the Fediverse, read about my [🐲 mini fediverse reader](https://www.hayes.software/projects/fediverse-reader/).
 
-💬 95% of my posts online are on either [Fosstodon](https://fosstodon.org) (FOSS Mastodon server) or the [newhaven.io](https://newhaven.io) dev community on Discord.
+💬 I almost exclusively post on [Fosstodon](https://fosstodon.org) (FOSS Mastodon server).
 
 ### 🤵 You'll find me on
 
