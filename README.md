@@ -1,7 +1,3 @@
-[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
-----
-
 ## 🧋 I'm Chris, a web dev with a love for design, open-source, and ai.
 
 ⚡ I build fun websites with React/Next, Tailwind, Shopify, and WebGL.
@@ -10,11 +6,11 @@
 
 🌱 I'm learning to build with the Fediverse, read about my [🐲 mini fediverse reader](https://www.hayes.software/projects/fediverse-reader/).
 
-💬 I almost exclusively post on [Fosstodon](https://fosstodon.org) (FOSS Mastodon server).
+💬 I pretty much only use [Mastodon](https://floss.social).
 
 ### 🤵 You'll find me on
 
-[![Fosstodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Fosstodon&color=6364FF&logo=Mastodon&logoColor=white)](https://fosstodon.org/@chris_hayes)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Fosstodon&color=6364FF&logo=Mastodon&logoColor=white)](https://floss.social/@chris)
 [![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/2096769/chris-hayes)
 
 <a href="https://github.com/christopher-hayes">
@@ -24,3 +20,5 @@
 <span style="display:block;height:1em"></span>
 
 PFP - A portrait generated with MidJourney AI. It's a /blend of a real photo of myself and a MJ creation I liked.
+
+[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
