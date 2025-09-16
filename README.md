@@ -1,4 +1,4 @@
-## 🧋 I'm Chris, a web dev with a love for design, open-source, and ai.
+## 🧋 I'm Chris, a web dev with a passion for open-source and design.
 
 ⚡ I build fun websites with React/Next, Tailwind, Shopify, and WebGL.
 
@@ -6,19 +6,15 @@
 
 🌱 I'm learning to build with the Fediverse, read about my [🐲 mini fediverse reader](https://www.hayes.software/projects/fediverse-reader/).
 
-💬 I pretty much only use [Mastodon](https://floss.social).
+💬 I pretty much only use [Mastodon](https://nutmeg.social/@chris).
 
 ### 🤵 You'll find me on
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Fosstodon&color=6364FF&logo=Mastodon&logoColor=white)](https://floss.social/@chris)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Nutmeg%20Social&color=6364FF&logo=Mastodon&logoColor=white)](https://nutmeg.social/@chris)
 [![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/2096769/chris-hayes)
 
 <a href="https://github.com/christopher-hayes">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=christopher-hayes&show_icons=true&count_private=true&theme=gruvbox" alt="Braydon's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=christopher-hayes&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub stats for Chris Hayes" />
 </a>
-
-<span style="display:block;height:1em"></span>
-
-PFP - A portrait generated with MidJourney AI. It's a /blend of a real photo of myself and a MJ creation I liked.
 
 [![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
