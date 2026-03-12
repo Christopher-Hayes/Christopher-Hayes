@@ -2,7 +2,7 @@
 
 ⚡ I build fun websites with React/Next, Tailwind, Shopify, and WebGL.
 
-💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn), a FOSS alternative to AI Chat in VSCode (ie Copilot, Cody, Bito).
+💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn), a FOSS alternative to VS Code Copilot.
 
 🌱 I'm currently learning to build with GoDot.
 
