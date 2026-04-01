@@ -1,10 +1,10 @@
 ## I'm Chris, a web dev with a passion for open-source and design.
 
-⚡ I build fun websites with React/Next, Tailwind, Shopify, and WebGL.
+⚡ I make websites—shops, 3D, brands, museums using tech like Next, Web Components, WebGL, and Tailwind
 
 💻 I'm the maintainer of [the VSCode Extension, "ChatGPT Reborn"](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn), a FOSS alternative to VS Code Copilot.
 
-🌱 I'm currently learning to build with GoDot.
+🌱 I'm currently learning to build with Godot.
 
 ### Links
 
