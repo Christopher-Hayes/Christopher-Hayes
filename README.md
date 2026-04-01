@@ -8,7 +8,7 @@
 
 ### Links
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&message=Nutmeg%20Social&color=6364FF&logo=Mastodon&logoColor=white)](https://nutmeg.social/@chris)
+[![Mastodon](nutmeg-share-banner-blue.webp)](https://nutmeg.social/@chris)
 [![Codeberg](https://img.shields.io/static/v1?style=for-the-badge&message=Codeberg&color=2185D0&logo=codeberg&logoColor=FFFFFF&label=)](https://codeberg.org/Chris-Hayes)
 [![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=gitlab&logoColor=FFFFFF&label=)](https://gitlab.com/Chris-Hayes)
 [![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/2096769/chris-hayes)
