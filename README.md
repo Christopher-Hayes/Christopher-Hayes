@@ -12,6 +12,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="coding-stats-dark.png">
   <img src="coding-stats-light.png" alt="Coding stats for Chris Hayes">
 </picture>
+<br/><br/>
 
 [![Mastodon](badge-mastodon.webp)](https://nutmeg.social/@chris) 
 [![Codeberg](badge-codeberg.webp)](https://codeberg.org/Chris-Hayes) 
