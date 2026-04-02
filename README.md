@@ -8,7 +8,10 @@
 
 🌱 Right now I'm learning Godot.
 
-<a href="https://github.com/christopher-hayes"><img src="coding-stats.png" alt="Forge stats for Chris Hayes" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="coding-stats-dark.png">
+  <img src="coding-stats-light.png" alt="Coding stats for Chris Hayes">
+</picture>
 
 [![Mastodon](badge-mastodon.webp)](https://nutmeg.social/@chris) 
 [![Codeberg](badge-codeberg.webp)](https://codeberg.org/Chris-Hayes) 
