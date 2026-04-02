@@ -14,5 +14,5 @@
 [![Stack Overflow](badge-stack-overflow.webp)](https://stackoverflow.com/users/2096769/chris-hayes)
 
 <a href="https://github.com/christopher-hayes">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=christopher-hayes&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub stats for Chris Hayes" />
+  <img style="margin:0.5rem" src="coding-stats.png" alt="Forge stats for Chris Hayes" />
 </a>
