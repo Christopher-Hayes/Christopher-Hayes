@@ -6,7 +6,7 @@
 
 🐦‍🔥 I maintain the FOSS alternative to GitHub Copilot, [the VSCode Extension ”ChatGPT Reborn”](https://github.com/Christopher-Hayes/vscode-chatgpt-reborn)
 
-🌱 Right now I'm learning Godot.
+🌱 Right now I'm learning .NET desktop application development with Avalonia UI.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="coding-stats-dark.png">
